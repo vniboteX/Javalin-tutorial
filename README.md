@@ -4,7 +4,7 @@ This repository contains example of how to write a RESTful webservice using Java
 ## Article
 Full post detailed the process available here :
 
-https://vnibotex.com/
+https://vnibotex.com/how-to-quickly-create-a-restful-web-service-in-java-using-javalin/
 
 ## Code
 This code is not a production-ready code. Many aspects (security, best practices) have been simplified to focus only on Javalin features
