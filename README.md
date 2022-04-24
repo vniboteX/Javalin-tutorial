@@ -1,5 +1,5 @@
 # How to quickly create a RESTful web service in Java using Javalin?
-This repository contains example of how to write an application a RESTful webservice using Javalin framework.
+This repository contains example of how to write a RESTful webservice using Javalin framework.
 
 ## Article
 Full post detailed the process available here :
